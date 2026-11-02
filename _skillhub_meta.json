@@ -1,0 +1,20 @@
+{
+  "name": "PDF 转 Word",
+  "source": "local",
+  "version": "1.0.0",
+  "description_zh": "PDF 转 Word（双引擎 + 文字覆盖率核验）",
+  "description_en": "Convert PDF to editable Word (.docx) with dual engines and coverage verification",
+  "examples_zh": [
+    "把这个 PDF 转成可编辑的 Word",
+    "把这几个 PDF 批量转成 docx",
+    "扫描件 PDF 能不能转成 Word",
+    "只转 PDF 的前十页到 Word"
+  ],
+  "examples_en": [
+    "Convert this PDF to an editable Word document",
+    "Batch convert these PDFs into docx",
+    "Can a scanned PDF be converted to Word",
+    "Only convert the first ten pages of this PDF to Word"
+  ],
+  "iconSource": "letter:auto"
+}
